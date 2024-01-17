@@ -10,6 +10,21 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "ActorLocker",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9280e03740c64592ad81b9fe751cec7e"
+		},
+		{
+			"Name": "FlatNodes",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b719437f3fb54c259b34227363df8cab"
+		},
+		{
+			"Name": "DebugExtensions",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/abc83c99e1e5452288742ae8846126ec"
 		}
 	]
 }
